@@ -1,6 +1,6 @@
 # SocialMediaSchedulerApi
 
-This folder has 1 Python file which is social_media_scheduler.py (primary file that has most of the code required to do social media api calls). This file is **OWNED BY DRUMUP** and is **not authorized** for use by anyone other than Drumup and the owner of the file(Santhosh Raj).
+This folder has 1 Python file which is social_apis.py (primary file that has most of the code required to do social media api calls). This file is **OWNED BY DRUMUP** and is **not authorized** for use by anyone other than Drumup and the owner of the file(Santhosh Raj).
 
 The file has Python functions that does the following
 1. Retrieves the access token of the users with permissions for posting on behalf of users on their timeline
