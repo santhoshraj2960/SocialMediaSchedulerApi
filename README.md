@@ -16,3 +16,6 @@ Primary Libraries:
 3. linkedin (marketing api)
 4. InstagramApi
 5. boto
+
+![Image of social media scheduler](https://octodex.github.com/images/yaktocat.png)
+https://lh3.googleusercontent.com/TYY7_8AUUqNQdLrvuAIDz1p07jm_CnKCrQ4UZxLQvySktL2PBygai6HJufEd2VK9qVSxQufd=w640-h400-e365
