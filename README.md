@@ -2,6 +2,8 @@
 
 This folder has 1 Python file which is social_apis.py (primary file that has most of the code required to do social media api calls). This file is **OWNED BY DRUMUP** and is **not authorized** for use by anyone other than Drumup and the owner of the file(Santhosh Raj).
 
+![Image of social media scheduler](https://photos.app.goo.gl/CLXpKPpc6wCoPk4R8)
+
 The file has Python functions that does the following
 1. Retrieves the access token of the users with permissions for posting on behalf of users on their timeline
 2. Pushes the articles scheduled by the users on their respective social media timelines
@@ -16,5 +18,3 @@ Primary Libraries:
 3. linkedin (marketing api)
 4. InstagramApi
 5. boto
-
-![Image of social media scheduler](https://lh3.googleusercontent.com/TYY7_8AUUqNQdLrvuAIDz1p07jm_CnKCrQ4UZxLQvySktL2PBygai6HJufEd2VK9qVSxQufd=w640-h400-e365)
